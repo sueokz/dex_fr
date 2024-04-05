@@ -1,2 +1,2 @@
 # dex_fr
-FRの取得。AWSのLAMDAの導入
+FRの取得。AWSの Lambdaの導入
